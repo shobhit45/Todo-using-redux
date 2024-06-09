@@ -3,7 +3,7 @@
 - This project is a Todo List application built using React, Redux Toolkit for state management, and Local Storage for data persistence. 
 - The app is styled using Tailwind CSS and uses Vite as the build tool.
 
-## Visit the live version and experience the magic:
+## Visit the live version and experience the magic: https://todo-using-redux-bit1g1jj8-shobhit45s-projects.vercel.app/
 
 ## Features
 - Add, Edit, and Delete Tasks: Manage your tasks efficiently with options to add, edit, and delete them.
